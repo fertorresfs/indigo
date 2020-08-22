@@ -1,6 +1,6 @@
 # main text of home
 name: Fernando Torres
-bio: A Man who travels the world eating noodles
+bio: Master’s student in Computer Science and Math. Member of the Multimedia and Praise Ministries.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,23 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
+facebook: fertorresfs
+twitter: fertorresfs
+instagram: fertorresfs
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: fertorresfs
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: fertorresfs
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: fertorresfs
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: fertorresfs@gmail.com
 
 authors:
   johndoe:
