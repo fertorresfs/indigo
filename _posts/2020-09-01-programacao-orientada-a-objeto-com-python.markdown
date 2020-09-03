@@ -15,6 +15,19 @@ description: Programação Orientada a Objeto com Python
 
 ## Objeto
 
+Tipos de Dados e Tipos Abstratos de Dados
+
+Tipos de dados são grupos de valores indivisíveis, como os tipos básicos integer, boolean, char e real.
+
+
+Objeto = Dados + Código
+
+Classes = Definem os tipos de objetos
+definem quais os dados e o código dos objetos
+
+Dados = Atributos
+Código = Métodos
+Os objetos são chamados de **Instâncias** das classes
 This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
 
 And that's how to do it.
