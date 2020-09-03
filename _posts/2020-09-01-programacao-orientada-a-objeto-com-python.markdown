@@ -1,5 +1,5 @@
 ---
-title: "Markdown Common Elements"
+title: "Programação Orientada a Objeto com Python"
 layout: post
 date: 2016-02-24 22:44
 image: /assets/images/markdown.jpg
@@ -9,15 +9,49 @@ tag:
 - elements
 star: true
 category: blog
-author: johndoe
-description: Markdown summary with different options
+author: fertorresfs
+description: Programação Orientada a Objeto com Python
 ---
 
-## Basic formatting
+## Objeto
 
 This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
 
 And that's how to do it.
+
+
+### About
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+ function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+    
+def foo():
+    if not bar:
+        return True
+        
+        
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
+
 
 {% highlight html %}
 This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
